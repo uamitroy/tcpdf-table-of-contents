@@ -1,6 +1,5 @@
 {
     "require": {
-        "mpdf/mpdf": "^8.1",
         "tecnickcom/tcpdf": "^6.4"
     }
 }
